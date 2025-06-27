@@ -3,7 +3,7 @@ description: Issue for a bug report.
 labels:
   - bug
 projects:
-  - TCiberH/1
+  - Tigercyberlabs/1
 body:
   - type: textarea
     attributes:
